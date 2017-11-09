@@ -5,6 +5,8 @@ https://pentesterlab.com
 
 http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet
 
+https://www.owasp.org/index.php/Main_Page
+
 https://www.kali.org
 
 https://portswigger.net/burp
